@@ -5,7 +5,7 @@
 * distributed to other students.
 * 
 * Name: ___Qiwen Yu____ Student ID: __120505177___ Date: _2020/12/10__
-* Heroku Link: _______ https://rocky-reaches-70281.herokuapp.com
+* Heroku Link: _______ 
 ********************************************************************************/
 
 const mongoDBConnectionString = "mongodb+srv://QIWEN-DBUser:yww1509089133621@cluster0.uf1i8.mongodb.net/blog?retryWrites=true&w=majority";
